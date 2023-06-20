@@ -1,0 +1,25 @@
+body{
+    background-color:white;
+}
+
+.container{
+    margin-left: 33%;
+    margin-top: 7%;
+    
+}
+h1{
+    color: purple;
+    font-size: xx-large;
+    font-weight: lighter;
+    font-family: fantasy;
+}
+input{
+    width: 50%;
+    height: 200px;
+}
+h3{
+    color: red  ;
+    font-size: xx-large;
+    font-weight: lighter;
+    font-family: fantasy;
+}
